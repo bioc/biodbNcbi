@@ -1,6 +1,6 @@
 Package: biodbNcbi
 Title: biodbNcbi, a library for connecting to NCBI Databases.
-Version: 1.13.0
+Version: 1.13.1
 Authors@R: 
     c(person(given = "Pierrick",
              family = "Roger",
@@ -48,3 +48,5 @@ Collate:
     'NcbiPubchemSubstConn.R'
     'NcbiPubchemSubstEntry.R'
     'package.R'
+    'zzz.R'
+PackageStatus: Deprecated
